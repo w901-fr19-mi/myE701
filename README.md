@@ -2,7 +2,7 @@
 
 Beispiel für einen Aufbau einer Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus dem LPI E701 Exam
 
-## Einrichtung forken dieses GitHub Repository für Dokumentation
+## Einrichtung forken dieses GitHub Repository für Dokumentation (Kapitel kann in der Kopie gelöscht werden)
 
 Als erster Schritt muss ein GitHub-Account eingerichtet werden. Dieser dient uns später als "Cloud-Speicher" unserer Dokumentation und weiteren Dateien.
 
@@ -24,7 +24,7 @@ Das ist es! Jetzt haben Sie einen `Fork` (Kopie) des Original myE010 Repository 
 
 Weitere Möglichkeiten siehe [Modul M300 - 10 Toolumgebung](https://github.com/mc-b/M300/tree/master/10-Toolumgebung)
 
-## Dokumentation
+## Dokumentation (Kapitel kann in der Kopie gelöscht werden)
 
 Die Dokumentation erfolgt im Markdownformat, dem Standard Wiki Format von github. Dies geht am Einfachsten direkt auf github.com.
 
@@ -32,7 +32,7 @@ Eine Markdown Übersicht / Syntax etc. finden Sie auf:
 * [Markdown Syntax inkl. Online Demo](http://markdown-syntax.de/Was-ist-Markdown/)
 * [Dokumentation aus dem Modul M300](https://github.com/mc-b/M300/blob/master/80-Ergaenzungen/vcs/03-Markdown.md) 
 
-## Installation
+## Installation (Kapitel kann in der Kopie gelöscht werden)
 
 Hier lohnt es sich Vagrant zu verwenden. Damit kann gleichzeitig eine VM (Ubuntu 16.x) mit Docker und Kubernetes aufgesetzt werden oder mittels des Projektes [lernkube](https://github.com/mc-b/lernkube) ein Kubernetes Master. 
 
@@ -81,7 +81,7 @@ Oder die gleiche Umgebung wie mit lernkube auf den Cloud Plattformen von Amazon 
 
 | Datum | behandelte Unterrichtsinhalte: | Gewichtung |
 | -------- | ------ | -------- |
-| 15.05.19 | 701.1 Modern Software Development, 1. Teil | 6 |
+| 15.05.19 | Installation SW, Einrichten Linux VM(s)<br>701.1 Modern Software Development, 1. Teil | 6 |
 | 22.05.19 | 701.1 Modern Software Development, 2. Teil | 4 |
 | 29.05.19 | 701.3 Source Code Management | 5 | 
 | 05.06.19 | 702.1 Container Usage, 1. Teil | 7 |
