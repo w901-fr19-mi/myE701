@@ -110,7 +110,7 @@ Kapitel aus E701 wurden in der Gruppe mit .... erarbeitet. Davon sind mindestens
 
 | Linux          | Container      | Beschreibung      |
 | -------------- | -------------- | ----------------- |
-| Namespaces     ! laufender Container | beim Starten des Containers wird in eine andere Linux Namespace gewechselt |
+| Namespaces     | laufender Container | beim Starten des Containers wird in eine andere Linux Namespace gewechselt |
 | UnionFS        | Image Layer         | Container Verwenden UnionFileSysteme um .... |
 | Unix Prozesse  | run/start/stop      | docker run/start/stop Befehle ähneln dem .... Subsystem |
 
