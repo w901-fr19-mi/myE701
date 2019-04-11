@@ -116,3 +116,9 @@ Kapitel aus E701 wurden in der Gruppe mit .... erarbeitet. Davon sind mindestens
 
 **Fazit und Aussicht**, z.B. Die Durcharbeitung von ... gab mir ein besseres Verständnis über die Funktionsweise von Containern.
 
+## Links
+
+* [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives) 
+* [E701 Dokumentation](https://github.com/w901-fr19-mi/E701)
+* [myE701 Original Repository](https://github.com/w901-fr19-mi/myE701) 
+
